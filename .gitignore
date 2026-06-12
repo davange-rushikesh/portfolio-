@@ -1,0 +1,12 @@
+/.vercel
+.env*
+node_modules/
+.next/
+dist/
+package-lock.json
+npm-debug.log*
+.DS_Store
+.vscode/
+.idea/
+coverage/
+*.log
